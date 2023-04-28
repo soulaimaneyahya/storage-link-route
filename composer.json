@@ -22,7 +22,8 @@
     "scripts": {
         "test": "vendor/bin/phpunit tests/Feature",
         "php-psr": [
-            "./vendor/bin/phpcs src/Providers/StorageLinkRouteServiceProvider.php --standard=PSR2"
+            "./vendor/bin/phpcs src/Providers/StorageLinkRouteServiceProvider.php --standard=PSR2",
+            "./vendor/bin/phpcs src/Http/Controllers/StorageLinkController.php --standard=PSR2"
         ]
     },
     "minimum-stability": "dev",

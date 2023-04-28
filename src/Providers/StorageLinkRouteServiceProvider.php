@@ -3,6 +3,7 @@
 namespace Soulaimaneyh\StorageLinkRoute\Providers;
 
 use \Illuminate\Foundation\Support\Providers\RouteServiceProvider;
+
 class StorageLinkRouteServiceProvider extends RouteServiceProvider
 {
     public function boot()
