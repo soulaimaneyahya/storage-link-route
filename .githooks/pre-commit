@@ -1,0 +1,8 @@
+#! /usr/bin/bash
+
+# cd ./git/hooks
+# mv pre-commit.sample pre-commit
+# Don't forget to add: chmod +x .git/hooks/pre-commit
+
+# Run tests before committing
+composer test
