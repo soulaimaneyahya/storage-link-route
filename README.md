@@ -1,5 +1,11 @@
 # storage-link-route
 
+<p align="center">
+<a href="https://github.com/soulaimaneyahya/data-encryption-helper"><img src="./assets/tests.svg" alt="Tests"></a>
+<a href="https://packagist.org/packages/soulaimaneyh/storage-link-route"><img src="./assets/version.svg" alt="Version"></a>
+<a href="https://github.com/soulaimaneyahya/data-encryption-helper"><img src="./assets/license.svg" alt="License"></a>
+</p>
+
 storage-link-route package
 
 ## Installation
