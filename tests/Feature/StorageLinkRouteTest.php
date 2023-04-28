@@ -2,7 +2,7 @@
 
 namespace Soulaimaneyh\StorageLinkRoute\Tests\Feature;
 
-use \Soulaimaneyh\StorageLinkRoute\Tests\TestBase;
+use Soulaimaneyh\StorageLinkRoute\Tests\TestBase;
 
 class StorageLinkRouteTest extends TestBase
 {
