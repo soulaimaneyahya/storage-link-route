@@ -3,3 +3,5 @@
 /phpunit.xml
 /composer.lock
 .idea/
+/tests/coverege
+/coverege
