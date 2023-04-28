@@ -13,9 +13,10 @@ class StorageLinkController extends Controller
         // Artisan::call('storage:link');
 
         if ($filesystem->exists(public_path('storage'))) {
-            return 'The "public/storage" directory already exist.';
+            return 'The [public/storage] directory already exist.';
         }
 
+        // app_path
         $filesystem->link(
             storage_path('app/public'),
             public_path('storage')
